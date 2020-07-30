@@ -1,0 +1,21 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin: 32px 0;
+}
+
+.card {
+  width: 200px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+  padding: 16px;
+  background-color: white;
+}
+
+.card img {
+  height: 100px;
+  object-fit: cover;
+}
+
+.card:hover {
+  transform: scale(1.1);
+}

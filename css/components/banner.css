@@ -1,0 +1,18 @@
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("https://source.unsplash.com/8beTH4VkhLI/");
+  padding: 200px 0;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 48px;
+  font-weight: 900;
+  margin-bottom: -10px;
+}
+
+.banner p {
+  color: lightgrey;
+  font-size: 20px;
+}

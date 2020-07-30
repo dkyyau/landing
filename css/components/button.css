@@ -1,0 +1,14 @@
+.button {
+  display: inline-block;
+  background-color: #FFCAD4;
+  color: #FFF6F2;
+  padding: 16px 32px;
+  border-radius: 32px;
+  border: 1px solid;
+  border-color: #FFCAD4;
+}
+
+.button:hover {
+  background-color: #FFF6F2;
+  color: #FFCAD4;
+}

@@ -1,0 +1,40 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;900&family=Open+Sans:wght@400;700&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+  background-color: #FFF6F2;
+}
+
+h1, h2, h3, h4 {
+  font-family: Nunito;
+}
+
+a {
+  text-decoration: none;
+  color: #9D8189;
+}
+
+a:hover {
+  color: #FFF6F2;
+}
+
+/* Custom design below! */
+.text-center {
+  text-align: center;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
